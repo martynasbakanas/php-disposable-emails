@@ -1,0 +1,20 @@
+{
+  "name": "martynasbakanas/php-disposable-emails",
+  "description": "List of disposable email domains to be used in PHP",
+  "keywords": [
+    "email",
+    "filter",
+    "blocklist",
+    "domain",
+    "disposable",
+    "throwaway",
+    "PHP"
+  ],
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "MartynasBakanas\\PHPDisposableEmails\\": "src/"
+    }
+  }
+}
