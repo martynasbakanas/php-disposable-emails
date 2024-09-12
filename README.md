@@ -2,7 +2,9 @@
 
 This package provides a method for determining whether an email address is a disposable / temporary email address.
 
-All credit to the maintaining of the list of disposable / temporary email addresses goes to [github.com/disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains).
+All credit to the maintaining of the list of disposable / temporary email addresses goes to [https://raw.githubusercontent.com/disposable/disposable-email-domains](https://https://raw.githubusercontent.com/disposable/disposable-email-domains).
+
+Emails are added from https://raw.githubusercontent.com/disposable/disposable-email-domains/master/domains.txt
 
 ## Installation
 
